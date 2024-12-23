@@ -1,0 +1,1394 @@
+[
+    {
+        "recipeID": 1,
+        "name": "Cocktail Meatballs",
+        "ingredients": [
+            {
+                "name": "ground beef",
+                "preparation": "1 pound lean ground beef"
+            },
+            { "name": "bread", "preparation": "1/2 cup bread crumbs" },
+            { "name": "onion", "preparation": "3 tablespoons minced onion" },
+            { "name": "water", "preparation": "2 tablespoons water" },
+            { "name": "egg", "preparation": "1 large egg" },
+            {
+                "name": "cranberry sauce",
+                "preparation": "1 (8 ounce) can jellied cranberry sauce"
+            },
+            { "name": "chili sauce", "preparation": "3/4 cup chili sauce" },
+            {
+                "name": "brown sugar",
+                "preparation": "1 tablespoon brown sugar"
+            },
+            {
+                "name": "lemon juice",
+                "preparation": "1 1/2 teaspoons lemon juice"
+            }
+        ],
+        "directions": [
+            "Gather the ingredients. Preheat the oven to 350 degrees F (175 degrees C)",
+            "Mix ground beef, bread crumbs, onion, water, and egg together in a large bowl. Form into small meatballs and arrange on a nonstick baking sheet. Bake in the preheated oven for 20 to 25 minutes, turning once",
+            "Stir cranberry sauce, chili sauce, brown sugar, and lemon juice together in a large saucepan over low heat until smooth. Add meatballs; simmer for 1 hour before serving"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/15206/cocktail-meatballs/",
+        "timeCook": "30 mins"
+    },
+    {
+        "recipeID": 2,
+        "name": "Baked Ham and Cheese Sliders",
+        "ingredients": [
+            {
+                "name": "butter",
+                "preparation": "3/4 cup melted butter"
+            },
+            {
+                "name": "mustard",
+                "preparation": "1 1/2 tablespoons Dijon mustard"
+            },
+            {
+                "name": "sauce",
+                "preparation": "1 1/2 teaspoons Worcestershire sauce"
+            },
+            {
+                "name": "poppy seeds",
+                "preparation": "1 1/2 tablespoons poppy seeds"
+            },
+            {
+                "name": "minced onion",
+                "preparation": "1 tablespoon dried minced onion"
+            },
+            {
+                "name": "sandwich",
+                "preparation": "24 mini sandwich rolls or 12 large"
+            },
+            {
+                "name": "ham",
+                "preparation": "1 pound thinly sliced cooked deli ham"
+            },
+            {
+                "name": "cheese",
+                "preparation": "1 pound thinly sliced Swiss cheese"
+            }
+        ],
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish",
+            "Mix butter, Dijon mustard, Worcestershire sauce, poppy seeds, and dried onion in a bowl",
+            "Separate the tops from the bottoms of the rolls; arrange the bottom pieces in a layer in the prepared baking dish. Layer about 1/2 of the ham onto the rolls; add a layer of Swiss cheese and top with remaining ham slices",
+            "Place the tops of the rolls onto the sandwiches. Pour mustard mixture evenly over the rolls",
+            "Bake in the preheated oven until the rolls are lightly browned and the cheese has melted, about 20 minutes. Slice into individual rolls through the ham and cheese layers to serve"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/216756/baked-ham-and-cheese-party-sandwiches/",
+        "timeCook": "30 mins"
+    },
+    {
+        "recipeID": 3,
+        "name": "Spicy Canned Salmon Salad Rice Bowl",
+        "ingredients": [
+            {
+                "name": "cucumber",
+                "preparation": "1 cup chopped English cucumber"
+            },
+            {
+                "name": "soy sauce",
+                "preparation": "1 tablespoon low-sodium soy sauce"
+            },
+            {
+                "name": "salmon",
+                "preparation": "1 (14 3/4 ounce) can pink salmon, skin and bone removed, drained and flaked"
+            },
+            {
+                "name": "garlic sauce",
+                "preparation": "2 1/2 tablespoons chile-garlic sauce (such as Sriracha)"
+            },
+            {
+                "name": "mayonnaise",
+                "preparation": "1 tablespoon light mayonnaise"
+            },
+            {
+                "name": "vinegar",
+                "preparation": "1 tablespoon rice vinegar"
+            },
+            { "name": "rice", "preparation": "1 cup cooked white rice" },
+            {
+                "name": "avocado",
+                "preparation": "1 avocado - peeled, pitted, and sliced"
+            },
+            {
+                "name": "sesame seeds",
+                "preparation": "1/2 teaspoon sesame seeds"
+            },
+            {
+                "name": "green onion",
+                "preparation": "1 tablespoon chopped green onion for garnish (optional)"
+            }
+        ],
+        "directions": [
+            "Combine chopped cucumbers and soy sauce in a small bowl and set aside",
+            "In a small bowl, combine the salmon, Sriracha®, mayonnaise, and rice vinegar",
+            "In a bowl place cooked rice and top it with the salmon mixture, sliced avocado, and chopped cucumber mixture. Sprinkle with sesame seeds. Top with extra Sriracha and green onions if desired"
+        ],
+        "recipeImage": "https://www.allrecipes.com/spicy-canned-salmon-salad-rice-bowl-recipe-7558696",
+        "timeCook": "30 mins"
+    },
+    {
+        "recipeID": 4,
+        "name": "Delicious Egg Salad",
+        "ingredients": [
+            {
+                "name": "egg",
+                "preparation": "8 large eggs"
+            },
+            {
+                "name": "mayonnaise",
+                "preparation": "1/2 cup mayonnaise"
+            },
+            {
+                "name": "green onion",
+                "preparation": "1/4 cup chopped green onion"
+            },
+            {
+                "name": "yellow mustard",
+                "preparation": "1 teaspoon prepared yellow mustard"
+            },
+            {
+                "name": "paprika",
+                "preparation": "1/4 teaspoon paprika"
+            },
+            {
+                "name": "salt and pepper",
+                "preparation": "salt and pepper to taste"
+            }
+        ],
+        "directions": [
+            "Gather all ingredients",
+            "Place eggs in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes",
+            "Place chopped eggs in a bowl; stir in mayonnaise, green onion, and mustard. Season with paprika, salt, and pepper",
+            "Stir and serve on your favorite bread, crackers, or salad greens"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/147103/delicious-egg-salad-for-sandwiches/",
+        "timeCook": "30 mins"
+    },
+    {
+        "recipeID": 5,
+        "name": "Bacon Cheeseburger Soup",
+        "ingredients": [
+            {
+                "name": "ground beef",
+                "preparation": "1 pound ground beef"
+            },
+            {
+                "name": "bacon",
+                "preparation": "4 slices thick-cut bacon, chopped"
+            },
+            {
+                "name": "carrot",
+                "preparation": "2 medium carrots, peeled and diced"
+            },
+            { "name": "celery", "preparation": "2 medium celery, diced" },
+            { "name": "onion", "preparation": "1 small onion, diced" },
+            {
+                "name": "chicken broth",
+                "preparation": "4 cups chicken broth"
+            },
+            {
+                "name": "potato",
+                "preparation": "2 large russet potatoes, peeled and diced"
+            },
+            {
+                "name": "butter",
+                "preparation": "3 tablespoons butter"
+            },
+            {
+                "name": "flour",
+                "preparation": "¼ cup all-purpose flour"
+            },
+            {
+                "name": "milk",
+                "preparation": "1 1/2 cups milk"
+            },
+            {
+                "name": "cheese",
+                "preparation": "2 cups shredded Cheddar cheese, plus more for garnish"
+            },
+            {
+                "name": "basil",
+                "preparation": "1 teaspoon dried basil"
+            },
+            {
+                "name": "parsley",
+                "preparation": "1 teaspoon dried parsley"
+            },
+            {
+                "name": "salt and pepper",
+                "preparation": "salt and freshly ground black pepper to taste"
+            }
+        ],
+        "directions": [
+            "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain, discard grease, and set aside",
+            "Meanwhile, place bacon in a 3-quart saucepan, and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Remove crisped bacon with a slotted spoon and set on paper towels to drain. Leave bacon grease in the saucepan",
+            "Sauté carrots, celery, and onion in the bacon grease until vegetables are tender, about 10 minutes. Add broth, potatoes, and browned ground beef; bring to a boil. Reduce heat, cover, and simmer until potatoes are tender, 10 to 12 minutes",
+            "Meanwhile, wipe out the skillet you previously cooked the beef in. Melt butter in the skillet and whisk in flour; cook, stirring frequently, until bubbly, 3 to 5 minutes. Carefully whisk milk into flour-butter mixture until well combined and very smooth",
+            "Pour milk mixture into the soup, whisking to combine; bring to a boil and simmer for about 2 minutes. Add Cheddar cheese and stir until melted. Season with basil, parsley, salt, and pepper",
+            "Remove from heat. Ladle soup into bowls and sprinkle with bacon and additional shredded Cheddar cheese"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/286342/loaded-bacon-cheeseburger-potato-soup/",
+        "timeCook": "30 mins"
+    },
+    {
+        "recipeID": 6,
+        "name": "Potato Soup",
+        "ingredients": [
+            {
+                "name": "bacon",
+                "preparation": "1 pound bacon, chopped"
+            },
+            { "name": "celery", "preparation": "2 stalks celery, diced" },
+            { "name": "onion", "preparation": "1 onion, chopped" },
+            { "name": "garlic", "preparation": "3 cloves garlic, minced" },
+            { "name": "potato", "preparation": "8 potatoes, peeled and cubed" },
+            {
+                "name": "chicken stock",
+                "preparation": "4 cups chicken stock, or enough to cover potatoes"
+            },
+            { "name": "butter", "preparation": "3 tablespoons butter" },
+            { "name": "flour", "preparation": "1/4 cup all-purpose flour" },
+            {
+                "name": "heavy cream",
+                "preparation": "1 cup heavy cream"
+            },
+            { "name": "tarragon", "preparation": "1 teaspoon dried tarragon" },
+            {
+                "name": "cilantro",
+                "preparation": "3 teaspoons chopped fresh cilantro"
+            },
+            {
+                "name": "salt and pepper",
+                "preparation": "salt and freshly ground black pepper to taste"
+            }
+        ],
+        "directions": [
+            "Gather all ingredients",
+            "Place bacon in a Dutch oven and cook over medium-high heat, turning occasionally, until evenly browned, 5 to 10 minutes. Drain bacon pieces on paper towels. Drain off all but 1/4 cup of the bacon grease",
+            "Cook celery and onion in the reserved bacon drippings until onion is soft and translucent, about 5 minutes. Stir in garlic, and continue cooking for 1 to 2 minutes",
+            "Add cubed potatoes, and toss to coat. Sauté for 3 to 4 minutes. Return bacon to the pan, and add enough chicken stock to just cover the potatoes. Cover, and simmer until potatoes are tender, 15 to 20 minutes",
+            "Meanwhile, melt butter in a separate skillet over medium heat. Whisk in flour. Cook, stirring constantly, 1 to 2 minutes. Whisk in heavy cream, tarragon, and cilantro",
+            "Bring cream mixture to a boil, and cook, stirring constantly, until thickened, about 5 minutes. Add cream mixture to the potato mixture; stir to combine",
+            "Transfer about 1/2 of the soup to a blender and purée. Return to the Dutch oven. Adjust seasonings to taste",
+            "Serve hot and enjoy!"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/13218/absolutely-ultimate-potato-soup/",
+        "timeCook": "30 mins"
+    },
+    {
+        "recipeID": 7,
+        "name": "Fresh Tomato Soup",
+        "ingredients": [
+            {
+                "name": "tomato",
+                "preparation": "4 cups chopped fresh tomatoes"
+            },
+            {
+                "name": "chicken broth",
+                "preparation": "2 cups chicken broth"
+            },
+            { "name": "garlic", "preparation": "4 cloves garlic" },
+            { "name": "onion", "preparation": "1 large slice of onion" },
+            { "name": "butter", "preparation": "2 tablespoons butter" },
+            {
+                "name": "flour",
+                "preparation": "2 tablespoons all-purpose flour"
+            },
+            {
+                "name": "white sugar",
+                "preparation": "2 teaspoons white sugar, or to taste"
+            },
+            {
+                "name": "salt",
+                "preparation": "1 teaspoon salt, or to taste"
+            }
+        ],
+        "directions": [
+            "Gather all ingredients",
+            "Combine tomatoes, chicken broth, garlic cloves, and a large slice of onion in a stockpot over medium heat. Bring to a boil, and gently simmer for about 20 minutes to blend flavors",
+            "Remove from heat and run the mixture through a food mill into a large bowl, or pan. Discard any stuff left over in the food mill",
+            "Melt butter over medium heat in the now empty stockpot. Stir in flour to make a roux by cooking, whisking constantly, until mixture turns medium brown",
+            "Gradually whisk in a bit of the tomato mixture to prevent lumps from forming, then stir in the rest",
+            "Season with sugar and salt to taste",
+            "Serve hot and enjoy!"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/39544/garden-fresh-tomato-soup/",
+        "timeCook": "30 mins"
+    },
+    {
+        "recipeID": 8,
+        "name": "Broccoli Soup",
+        "ingredients": [
+            {
+                "name": "butter",
+                "preparation": "5 tablespoons butter, divided"
+            },
+            { "name": "onion", "preparation": "1 onion, chopped" },
+            {
+                "name": "celery",
+                "preparation": "1 stalk celery, chopped"
+            },
+            {
+                "name": "chicken broth",
+                "preparation": "3 cups chicken broth"
+            },
+            {
+                "name": "broccoli ",
+                "preparation": "8 cups broccoli florets"
+            },
+            {
+                "name": "flour",
+                "preparation": "3 tablespoons all-purpose flour"
+            },
+            {
+                "name": "milk",
+                "preparation": "2 cups milk"
+            },
+            {
+                "name": "pepper",
+                "preparation": "ground black pepper to taste"
+            }
+        ],
+        "directions": [
+            "Gather all ingredients",
+            "Melt 2 tablespoons butter in a medium stock pot over medium heat. Saute onion and celery until tender",
+            "Add broccoli and broth, cover, and simmer for 10 minutes",
+            "Pour the soup into a blender, filling the pitcher no more than halfway full. Hold down the lid of the blender with a folded kitchen towel, and carefully start the blender, using a few quick pulses to get the soup moving before leaving it on to puree. Puree in batches until smooth and pour into a clean pot",
+            "Melt 3 tablespoons butter in a small saucepan over medium to medium-low heat; stir in flour and add milk. Stir until thick and bubbly, and add to soup. Season with pepper and serve",
+            "Serve hot and enjoy!"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/39544/garden-fresh-tomato-soup/",
+        "timeCook": "30 mins"
+    },
+    {
+        "recipeID": 9,
+        "name": "Meatball Pasta Bake",
+        "ingredients": [
+            {
+                "name": "pasta",
+                "preparation": "1 (16 ounce) package ziti pasta"
+            },
+            {
+                "name": "meatball",
+                "preparation": "1 1/2 pounds frozen cooked meatballs, thawed"
+            },
+            {
+                "name": "marinara sauce",
+                "preparation": "2 (28 ounce) jars prepared marinara sauce"
+            },
+            {
+                "name": "cheese",
+                "preparation": "1 cup ricotta cheese"
+            },
+            {
+                "name": "seasoning",
+                "preparation": "1 teaspoon Italian seasoning"
+            },
+            {
+                "name": "garlic powder",
+                "preparation": "1 teaspoon garlic powder"
+            },
+            {
+                "name": "shredded cheese",
+                "preparation": "3 cups shredded mozzarella cheese, divided"
+            },
+            {
+                "name": "grated cheese",
+                "preparation": "2/3 cup grated Parmesan cheese, divided"
+            }
+        ],
+        "directions": [
+            "Bring a large pot of lightly salted water to a boil. Add ziti and cook, stirring occasionally, about 3 minutes less than the package instructions, about 8 minutes. Drain pasta",
+            "Preheat the oven to 350 degrees F (175 degrees C). Lightly grease a 13x9 inch baking dish",
+            "Heat oil in a skillet over medium heat and cook meatballs until browned on all sides, about 5 minutes. Add marinara sauce and ricotta cheese; mix to combine. Add cooked pasta and mix to combine. Season with Italian seasoning and garlic powder",
+            "Cover the bottom of the prepared baking dish with a layer of sauce without meatballs. Sprinkle 1 cup mozzarella cheese on top. Add another layer of sauce with meatballs on top and sprinkle with 1/3 cup Parmesan cheese. Add another layer of 1 cup mozzarella cheese. Add the rest of the sauce and meatball mixture on top, followed by remaining 1 cup mozzarella cheese and 1/3 cup Parmesan cheese. Cover baking dish with aluminum foil",
+            "Bake in the preheated oven until cheese is melted, 20 to 30 minutes",
+            "Remove foil and bake until cheese starts to turn golden brown, 10 to 20 minutes. Enjoy!"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/8355257/meatball-pasta-bake/",
+        "timeCook": "30 mins"
+    },
+    {
+        "recipeID": 10,
+        "name": "Spaghetti Casserole",
+        "ingredients": [
+            {
+                "name": "cooking spray",
+                "preparation": "cooking spray"
+            },
+            {
+                "name": "spaghetti",
+                "preparation": "12 ounces uncooked spaghetti"
+            },
+            {
+                "name": "cream cheese",
+                "preparation": "1 (8 ounce) package cream cheese, softened"
+            },
+            {
+                "name": "sour cream",
+                "preparation": "1 (8 ounce) container sour cream"
+            },
+            {
+                "name": "mozzarella cheese",
+                "preparation": "2 cups shredded part-skim mozzarella cheese, divided"
+            },
+            {
+                "name": "olive oil",
+                "preparation": "2 tablespoons olive oil"
+            },
+            {
+                "name": "ground sirloin",
+                "preparation": "1 1/2 pounds ground sirloin"
+            },
+            {
+                "name": "yellow onion",
+                "preparation": "1/2 cup chopped yellow onion"
+            },
+            {
+                "name": "garlic",
+                "preparation": "2 teaspoons finely chopped garlic"
+            },
+            {
+                "name": "seasoning",
+                "preparation": "2 teaspoons Italian seasoning"
+            },
+            {
+                "name": "salt",
+                "preparation": "1 teaspoon kosher salt"
+            },
+            {
+                "name": "pepper",
+                "preparation": "1/2 teaspoon ground black pepper"
+            },
+            {
+                "name": "jars spaghetti or marinara sauce",
+                "preparation": "2 (24 ounce) jars spaghetti or marinara sauce"
+            },
+            {
+                "name": "Parmesan cheese",
+                "preparation": "1/4 cup Parmesan cheese"
+            }
+        ],
+        "directions": [
+            "Gather all ingredients. Preheat the oven to 350 degrees F (175 degrees C). Spray a 9x13-inch baking dish with cooking spray; set aside",
+            "Boil spaghetti in generously salted water until cooked through but still firm to the bite, 8 to 10 minutes. Drain and set aside",
+            "While pasta cooks, stir cream cheese, sour cream, and 1 cup of mozzarella cheese together until combined; set aside",
+            "Heat olive oil in a large high-sided skillet over medium-high heat. Add beef in large chunks and cook, undisturbed, until lightly browned, about 2 minutes",
+            "Add onion, garlic, Italian seasoning, salt, and pepper. Continue to cook, breaking up meat into smaller pieces with a wooden spoon and stirring occasionally, until almost cooked through, about 3 minutes. Remove from heat and tilt the pan to pool grease onto one side, trying to keep the beef mixture on the other. Use a large spoon to remove grease; discard grease once cooled",
+            "Add marinara to beef mixture in skillet; stir until combined. Add reserved spaghetti. Fold and stir until well coated in sauce",
+            "Transfer 1/2 of the pasta mixture to prepared baking dish. Spread sour cream mixture evenly over pasta mixture in baking dish, then top with remaining pasta mixture",
+            "Sprinkle remaining 1 cup mozzarella evenly over spaghetti mixture. Cover loosely with aluminum foil and place baking dish on a baking sheet",
+            "Bake in preheated oven until cheese has melted, about 30 minutes. Remove aluminum foil and sprinkle top with Parmesan cheese. Increase oven temperature to broil",
+            "Broil until cheese has started to turn golden brown, 3 to 4 minutes. Sprinkle with parsley and serve",
+            "Enjoy!"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/195045/the-best-spaghetti-casserole/",
+        "timeCook": "30 mins"
+    },
+    {
+        "recipeID": 11,
+        "name": "Green Bean Mac and Cheese",
+        "ingredients": [
+            {
+                "name": "salt",
+                "preparation": "3 tablespoons salt"
+            },
+            {
+                "name": "green bean",
+                "preparation": "1 pound green beans, trimmed"
+            },
+            {
+                "name": "butter",
+                "preparation": "1/2 cup unsalted butter"
+            },
+            {
+                "name": "flour",
+                "preparation": "1/2 cup all-purpose flour"
+            },
+            {
+                "name": "milk",
+                "preparation": "5 cups cold milk"
+            },
+            {
+                "name": "kosher salt",
+                "preparation": "2 teaspoons kosher salt"
+            },
+            {
+                "name": "cayenne pepper",
+                "preparation": "1/4 teaspoon cayenne pepper"
+            },
+            {
+                "name": "thyme",
+                "preparation": "1/4 teaspoon dried thyme"
+            },
+            {
+                "name": "white pepper",
+                "preparation": "1/4 teaspoon white pepper"
+            },
+            {
+                "name": "nutmeg",
+                "preparation": "1 pinch ground nutmeg"
+            },
+            {
+                "name": "mustard",
+                "preparation": "1 tablespoon Dijon mustard"
+            },
+            {
+                "name": "Worcestershire sauce",
+                "preparation": "1/4 teaspoon Worcestershire sauce "
+            },
+            {
+                "name": "Cheddar cheese",
+                "preparation": "1 pound extra sharp Cheddar cheese, freshly grated"
+            },
+            {
+                "name": "fried onion",
+                "preparation": "1 cup French fried onions, or more as needed"
+            }
+        ],
+        "directions": [
+            "Preheat the oven to 375 degrees F (190 degrees C)",
+            "Bring 3 quarts of generously salted water to a boil on high heat. Add beans and cook until they just start to get tender, but they are not soft, about 4 minutes. Remove with a hand strainer to a bowl; set aside until cool enough to handle. Cut into 1-inch pieces and reserve",
+            "Add elbow macaroni to the boiling bean water, and cook 1 minute less than package directions, about 8 minutes. Transfer into a colander, and let drain for 1 minute, then transfer into a large bowl",
+            "For best results, make cheese sauce while pasta is cooking: melt butter over medium heat. Whisk in flour, and cook for a few minutes to take raw flavor away from the flour. Add cold milk all at once, and whisk to combine. Continue cooking, stirring occasionally, until mixture comes to a simmer and thickens (heat can be raised to medium-high to save time, if you stir constantly). While sauce is thickening, stir in salt, cayenne, thyme, pepper, nutmeg, Dijon mustard, and Worcestershire sauce",
+            "Once mixture is thick, turn off heat and stir in cheese until melted. Add green beans to hot, drained macaroni, pour in cheese sauce, and mix to combine evenly. Transfer into a 9x13-inch baking dish. Place on a sheet pan to catch any drips",
+            "Scatter surface evenly with fried onions, and press them lightly into the surface with your fingertips",
+            "Bake in the preheated oven until mac and cheese is hot, and the top is browned, about 30 minutes. Let rest for 10 minutes before serving"
+        ],
+        "recipeImage": "https://www.allrecipes.com/green-bean-mac-and-cheese-recipe-8753390",
+        "timeCook": "30 mins"
+    },
+    {
+        "recipeID": 12,
+        "name": "Creamy Bacon Pasta Bake",
+        "ingredients": [
+            {
+                "name": "bacon",
+                "preparation": "8 ounces thick-cut bacon, chopped"
+            },
+            {
+                "name": "yellow onion",
+                "preparation": "1 yellow onion, finely chopped"
+            },
+            {
+                "name": "tomato paste",
+                "preparation": "1/4 cup tomato paste"
+            },
+            {
+                "name": "red pepper",
+                "preparation": "1/2 teaspoon crushed red pepper"
+            },
+            {
+                "name": "chicken broth",
+                "preparation": "3 cups chicken broth"
+            },
+            {
+                "name": "heavy whipping cream",
+                "preparation": "2 cups heavy whipping cream"
+            },
+            {
+                "name": "white wine",
+                "preparation": "1/2 cup dry white wine"
+            },
+            {
+                "name": "kosher salt",
+                "preparation": "1 tablespoon kosher salt"
+            },
+            {
+                "name": "cheese",
+                "preparation": "1 cup freshly grated Parmigiano-Reggiano cheese, divided"
+            },
+            {
+                "name": "spaghetti",
+                "preparation": "1 (1-pound) package spaghetti"
+            },
+            {
+                "name": "parsley",
+                "preparation": "1 tablespoon finely chopped fresh flat-leaf parsley"
+            }
+        ],
+        "directions": [
+            "Gather all ingredients",
+            "Preheat oven to 475 degrees F (245 degrees C). Scatter bacon evenly over the bottom of a 13-x-9-inch baking dish. Bake in the preheated oven, stirring twice during cooking, until bacon is crispy and fat has rendered, 20 to 25 minutes. Remove from the oven and transfer bacon to a small paper-towel-lined plate and set aside. Reduce oven temperature to 425 degrees F (220 degrees C)",
+            "Remove all but 2 tablespoons of the bacon fat from the baking dish. Add onion, tomato paste, and crushed red pepper to reserved hot bacon fat in the baking dish and stir until onion is well coated in tomato paste",
+            "Add chicken broth, cream, wine, salt, 3/4 cup of the Parmigiano-Reggiano, and stir to combine. Spread spaghetti into broth mixture and bake at 425 degrees F (220 degrees C), uncovered, stirring every 8 to 10 minutes, until spaghetti is tender, has absorbed most of the sauce, and the sauce has thickened, 40 to 45 minutes",
+            "Remove and top with 1/4 cup of the reserved bacon, remaining 1/4 cup Parmigiano-Reggiano and parsley",
+            "Serve immediately, garnishing each serving with more reserved bacon, as desired"
+        ],
+        "recipeImage": "https://www.allrecipes.com/green-bean-mac-and-cheese-recipe-8753390",
+        "timeCook": "30 mins"
+    },
+    {
+        "recipeID": 13,
+        "name": "Hamburger Stroganoff",
+        "ingredients": [
+            {
+                "name": "egg noodles",
+                "preparation": "1 (16 ounce) package egg noodles"
+            },
+            {
+                "name": "ground beef",
+                "preparation": "1 pound lean ground beef"
+            },
+            {
+                "name": "cream cheese",
+                "preparation": "1 (8 ounce) package cream cheese, cut into pieces"
+            },
+            {
+                "name": "mushroom",
+                "preparation": "1 (6 ounce) can chopped mushrooms, with liquid"
+            },
+            {
+                "name": "brown gravy",
+                "preparation": "1 (.75 ounce) packet dry brown gravy mix"
+            },
+            {
+                "name": "mushroom soup",
+                "preparation": "2 (10.5 ounce) cans condensed cream of mushroom soup"
+            },
+            {
+                "name": "sour cream",
+                "preparation": "1 (8 ounce) container sour cream"
+            },
+            {
+                "name": "milk",
+                "preparation": "1/2 cup milk"
+            }
+        ],
+        "directions": [
+            "Fill a large pot with lightly salted water and bring to a rapid boil. Cook egg noodles at a boil until tender yet firm to the bite, 7 to 9 minutes. Drain",
+            "Meanwhile, cook ground beef in a large skillet over medium-high heat, stirring occasionally, until browned and crumbly, 5 to 7 minutes; drain and discard grease. Stir in cream cheese, mushrooms with liquid, and gravy mix; cook and stir over medium heat until cream cheese melts, 2 to 3 minutes. Add condensed soup, sour cream, and milk; cook, stirring occasionally, until smooth and creamy, 3 to 5 minutes",
+            "Drain egg noodles; stir into the beef mixture. Cook until heated through, 2 to 3 minutes"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/23260/simple-hamburger-stroganoff/",
+        "timeCook": "30 mins"
+    },
+    {
+        "recipeID": 14,
+        "name": "Korean Beef Bowl",
+        "ingredients": [
+            {
+                "name": "ground beef",
+                "preparation": "1 pound lean ground beef"
+            },
+            {
+                "name": "garlic",
+                "preparation": "5 cloves garlic, crushed"
+            },
+            {
+                "name": "ginger",
+                "preparation": "1 tablespoon freshly grated ginger"
+            },
+            {
+                "name": "sesame oil",
+                "preparation": "2 teaspoons toasted sesame oil"
+            },
+            {
+                "name": "soy sauce",
+                "preparation": "1/2 cup reduced-sodium soy sauce"
+            },
+            {
+                "name": "brown sugar",
+                "preparation": "1/3 cup light brown sugar"
+            },
+            {
+                "name": "red pepper",
+                "preparation": "1/4 teaspoon crushed red pepper"
+            },
+            {
+                "name": "green onion",
+                "preparation": "6 green onions, chopped, divided"
+            },
+            {
+                "name": "brown rice",
+                "preparation": "4 cups hot cooked brown rice"
+            },
+            {
+                "name": "sesame seeds",
+                "preparation": "1 tablespoon toasted sesame seeds"
+            }
+        ],
+        "directions": [
+            "Gather all ingredients",
+            "Heat a large skillet over medium-high heat. Add beef and cook, stirring and crumbling into small pieces until browned, 5 to 7 minutes. Drain excess grease",
+            "Stir in garlic, ginger, and sesame oil and cook until fragrant, about 2 minutes",
+            "Stir in soy sauce, brown sugar, and red pepper. Cook until beef absorbs some sauce, about 7 minutes",
+            "Add 1/2 of chopped green onions",
+            "Serve over hot cooked rice; garnish with sesame seeds and remaining green onions"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/268091/easy-korean-ground-beef-bowl/",
+        "timeCook": "30 mins"
+    },
+    {
+        "recipeID": 15,
+        "name": "Spicy Tuna Rice Bowl",
+        "ingredients": [
+            {
+                "name": "long-grain rice",
+                "preparation": "1 cup uncooked long-grain rice"
+            },
+            {
+                "name": "water",
+                "preparation": "1 1/2 cups water"
+            },
+            {
+                "name": "tuna",
+                "preparation": "1 (7 ounce) jar tuna packed in olive oil"
+            },
+            {
+                "name": "red bell pepper",
+                "preparation": "1/2 cup finely diced red bell pepper"
+            },
+            {
+                "name": "jalapeno pepper",
+                "preparation": "1/4 cup finely diced jalapeno pepper"
+            },
+            {
+                "name": "green onions",
+                "preparation": "1/4 cup finely sliced green onions"
+            },
+            {
+                "name": "rice vinegar",
+                "preparation": "1/3 cup seasoned rice vinegar"
+            },
+            {
+                "name": "lemon",
+                "preparation": "1/2 lemon, juiced, or to taste"
+            },
+            {
+                "name": "soy sauce",
+                "preparation": "2 tablespoons soy sauce"
+            },
+            {
+                "name": "hot sauce",
+                "preparation": "2 teaspoons Sriracha hot sauce"
+            },
+            {
+                "name": "sesame oil",
+                "preparation": "1/2 teaspoon sesame oil"
+            },
+            {
+                "name": "red pepper",
+                "preparation": "1 pinch Korean red pepper flakes (gochugaru), or to taste"
+            },
+            {
+                "name": "green onion",
+                "preparation": "1 teaspoon finely sliced green onion, or to taste"
+            }
+        ],
+        "directions": [
+            "Gather the ingredients",
+            "Pour rice into a heavy pot and add water; swirl to allow rice to settle. Bring to a simmer over medium-high heat; do not stir. Reduce heat to low, cover, and continue to simmer for 15 minutes",
+            "While rice is cooking, place tuna into a large mixing bowl and break up with your hands or a fork. Toss in red bell pepper, jalapeno, 1/4 cup green onions, rice vinegar, lemon juice, soy sauce, Sriracha, and sesame oil. Mix with a fork until thoroughly combined. Turn off heat and let rice sit, covered, for 10 minutes",
+            "Fluff rice with a fork to separate the grains and break up any large clumps; transfer into the mixing bowl. Mix thoroughly with a spoon until all the ingredients are evenly incorporated. Taste and adjust seasoning if needed. Serve warm, at room temperature, or cold like a rice salad, topped with red pepper flakes and 1 teaspoon green onion"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/278876/spicy-tuna-rice-bowl/",
+        "timeCook": "30 mins"
+    },
+    {
+        "recipeID": 16,
+        "name": "Korean Bulgogi Bowl",
+        "ingredients": [
+            {
+                "name": "ground beef",
+                "preparation": "1 pound lean ground beef"
+            },
+            {
+                "name": "sesame oil",
+                "preparation": "1 tablespoon sesame oil"
+            },
+            {
+                "name": "brown sugar",
+                "preparation": "1/4 cup brown sugar"
+            },
+            {
+                "name": "soy sauce",
+                "preparation": "1/4 cup soy sauce"
+            },
+            {
+                "name": "water",
+                "preparation": "1/4 cup water"
+            },
+            {
+                "name": "pear",
+                "preparation": "1/2 Asian pear, grated"
+            },
+            {
+                "name": "garlic",
+                "preparation": "5 cloves garlic, minced, or more to taste"
+            },
+            {
+                "name": "ginger",
+                "preparation": "1 inch piece ginger, peeled and diced"
+            },
+            {
+                "name": "red pepper flakes",
+                "preparation": "1 teaspoon red pepper flakes"
+            },
+            {
+                "name": "ground black pepper",
+                "preparation": "1/2 teaspoon ground black pepper"
+            },
+            {
+                "name": "brown rice",
+                "preparation": "1 cup cooked brown rice, or more to taste"
+            },
+            {
+                "name": "lettuce",
+                "preparation": "1 head romaine lettuce, chopped, or to taste"
+            },
+            {
+                "name": "cucumber",
+                "preparation": "1 cucumber, diced"
+            },
+            {
+                "name": "red bell pepper",
+                "preparation": "1 red bell pepper, diced, or to taste (Optional)"
+            },
+            {
+                "name": "sesame seeds",
+                "preparation": "1 tablespoon sesame seeds, or to taste (Optional)"
+            }
+        ],
+        "directions": [
+            "Heat a large skillet over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain and discard grease. Mix in sesame oil",
+            "Combine brown sugar, soy sauce, water, Asian pear, garlic, ginger, red pepper flakes, and black pepper in a food processor. Blend until combined but still slightly chunky. Pour mixture into the skillet with the beef and cook over medium heat until most of the liquid evaporates, 7 to 9 minutes",
+            "Place 1/4 the cooked brown rice in the bottom of an individual serving bowl. Top with a portion of beef mixture, lettuce, cucumber, red bell pepper, and sesame seeds. Repeat with remaining rice, beef, and toppings"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/268055/korean-bulgogi-bowl/",
+        "timeCook": "30 mins"
+    },
+    {
+        "recipeID": 17,
+        "name": "Easy Fried Rice",
+        "ingredients": [
+            {
+                "name": "carrots",
+                "preparation": "2/3 cup chopped baby carrots"
+            },
+            {
+                "name": "green peas",
+                "preparation": "1/2 cup frozen green peas"
+            },
+            {
+                "name": "vegetable oil",
+                "preparation": "2 tablespoons vegetable oil"
+            },
+            {
+                "name": "garlic",
+                "preparation": "1 clove garlic, minced, or to taste (Optional)"
+            },
+            {
+                "name": "eggs",
+                "preparation": "2 large eggs"
+            },
+            {
+                "name": "white rice",
+                "preparation": "3 cups leftover cooked and chilled white rice"
+            },
+            {
+                "name": "soy sauce",
+                "preparation": "1 tablespoon soy sauce, or more to taste"
+            },
+            {
+                "name": "sesame oil",
+                "preparation": "2 teaspoons sesame oil, or to taste"
+            }
+        ],
+        "directions": [
+            "Assemble ingredients",
+            "Place carrots in a small saucepan and cover with water. Bring to a low boil and cook for 3 to 5 minutes. Stir in peas, then immediately drain in a colander",
+            "Heat a wok over high heat. Pour in vegetable oil, then stir in carrots, peas, and garlic; cook for about 30 seconds. Add eggs; stir quickly to scramble eggs with vegetables",
+            "Stir in cooked rice. Add soy sauce and toss rice to coat. Drizzle with sesame oil and toss again",
+            "Serve hot and enjoy!"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/79543/fried-rice-restaurant-style/",
+        "timeCook": "20 mins"
+    },
+    {
+        "recipeID": 18,
+        "name": "Mexican Rice",
+        "ingredients": [
+            {
+                "name": "vegetable oil",
+                "preparation": "3 tablespoons vegetable oil"
+            },
+            {
+                "name": "long-grain rice",
+                "preparation": "1 cup uncooked long-grain rice"
+            },
+            {
+                "name": "garlic salt",
+                "preparation": "1 teaspoon garlic salt"
+            },
+            {
+                "name": "ground cumin",
+                "preparation": "1/2 teaspoon ground cumin"
+            },
+            {
+                "name": "onion",
+                "preparation": "1/4 cup chopped onion"
+            },
+            {
+                "name": "chicken broth",
+                "preparation": "2 cups chicken broth"
+            },
+            {
+                "name": "tomato sauce",
+                "preparation": "1/2 cup tomato sauce"
+            }
+        ],
+        "directions": [
+            "Gather all ingredients",
+            "Heat oil in a large saucepan over medium heat. Add rice and season with garlic salt and cumin; cook, stirring constantly, until puffed and golden",
+            "Add onion; cook and stir until onion has softened",
+            "Stir in chicken broth and tomato sauce; bring to a boil",
+            "Reduce heat to low, cover, and simmer for 20 to 25 minutes. Fluff rice with a fork",
+            "Serve and enjoy!"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/27072/mexican-rice-ii/",
+        "timeCook": "30 mins"
+    },
+    {
+        "recipeID": 19,
+        "name": "Lime Cilantro Rice",
+        "ingredients": [
+            {
+                "name": "water",
+                "preparation": "2 cups water"
+            },
+            {
+                "name": "kosher salt",
+                "preparation": "1 teaspoon kosher salt"
+            },
+            {
+                "name": "long-grain white rice",
+                "preparation": "1 cup long-grain white rice"
+            },
+            {
+                "name": "butter",
+                "preparation": "1 tablespoon butter"
+            },
+            {
+                "name": "cilantro",
+                "preparation": "1/2 cup chopped cilantro"
+            },
+            {
+                "name": "lime juice",
+                "preparation": "2 tablespoons fresh lime juice"
+            },
+            {
+                "name": "lime zest",
+                "preparation": "1 teaspoon lime zest"
+            }
+        ],
+        "directions": [
+            "Gather all ingredients",
+            "Bring water and salt to a boil in a small saucepan. Stir in rice and butter. Reduce heat to low, cover, and simmer until rice is tender, about 20 minutes",
+            "Just before serving, add cilantro, lime juice, and lime zest",
+            "Enjoy!"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/146000/lime-cilantro-rice/",
+        "timeCook": "30 mins"
+    },
+    {
+        "recipeID": 20,
+        "name": "Turkey Wild Rice Soup",
+        "ingredients": [
+            {
+                "name": "butter",
+                "preparation": "6 tablespoons butter"
+            },
+            {
+                "name": "onion",
+                "preparation": "1/4 cup diced onion"
+            },
+            {
+                "name": "celery",
+                "preparation": "1/4 cup diced celery"
+            },
+            {
+                "name": "flour",
+                "preparation": "1/4 cup all-purpose flour"
+            },
+            {
+                "name": "turkey broth",
+                "preparation": "4 cups turkey broth"
+            },
+            {
+                "name": "carrots",
+                "preparation": "1/3 cup shredded carrots"
+            },
+            {
+                "name": "turkey",
+                "preparation": "2 cups chopped leftover roasted turkey"
+            },
+            {
+                "name": "rice",
+                "preparation": "2 cups cooked wild rice"
+            },
+            {
+                "name": "almonds",
+                "preparation": "1/4 cup chopped slivered almonds"
+            },
+            {
+                "name": "kosher salt",
+                "preparation": "1/2 teaspoon kosher salt, or to taste"
+            },
+            {
+                "name": "black pepper",
+                "preparation": "1/2 teaspoon ground black pepper, or to taste"
+            },
+            {
+                "name": "lemon juice",
+                "preparation": "1/2 teaspoon lemon juice"
+            },
+            {
+                "name": "half and half",
+                "preparation": "3/4 cup half-and-half"
+            }
+        ],
+        "directions": [
+            "Gather all ingredients",
+            "Melt butter in a soup pot over medium heat. Add onion and celery; cook and stir until translucent, about 5 minutes",
+            "Stir in flour, and cook until it turns a pale, yellowish-brown color, 3 to 5 minutes",
+            "Gradually whisk in turkey stock until no lumps of flour remain",
+            "Stir in carrot and bring mixture to a simmer. Cook, whisking constantly, until stock is thick and smooth and carrots are tender, about 2 minutes",
+            "Stir in turkey, wild rice, almonds, salt, and pepper; simmer until heated through, about 5 minutes",
+            "Stir in lemon juice and half-and-half; bring soup almost to a boil. Serve immediately"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/212664/turkey-wild-rice-soup-ii/",
+        "timeCook": "40 mins"
+    },
+    {
+        "recipeID": 21,
+        "name": "Japanese Agedashi Tofu",
+        "ingredients": [
+            {
+                "name": "firm silken tofu",
+                "preparation": "1 (10.5 ounce) package firm silken tofu"
+            },
+            { "name": "water", "preparation": "2 cups water" },
+            {
+                "name": "light soy sauce",
+                "preparation": "2 tablespoons light soy sauce"
+            },
+            { "name": "mirin", "preparation": "2 tablespoons mirin" },
+            {
+                "name": "dashi granule",
+                "preparation": "1 teaspoon dashi granules"
+            },
+            {
+                "name": "vegetable oil",
+                "preparation": "vegetable oil for frying"
+            },
+            { "name": "green onion", "preparation": "2 green onions, chopped" }
+        ],
+        "directions": [
+            "Place the block of tofu between sheets of paper towels. Set a plate on top; add a 3- to 5-pound weight to the plate. Press tofu for 15 minutes; drain and discard the accumulated liquid",
+            "Meanwhile, combine water, soy sauce, mirin, and dashi in a saucepan. Bring to a boil over medium heat. Remove from heat and set aside",
+            "Remove weight, plate, and paper towels. Cut tofu into 3/4-inch cubes. Place flour in a bowl and lightly coat tofu with flour",
+            "Heat oil in a heavy pot and fry tofu until golden-brown, 4 to 6 minutes. Fry in batches if necessary so as not to overcrowd the pot. Place fried tofu in a serving dish and pour sauce on top. Sprinkle with green onions"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/263693/japanese-agedashi-tofu/",
+        "timeCook": "30 mins"
+    },
+    {
+        "recipeID": 22,
+        "name": "Fried Rice",
+        "ingredients": [
+            {
+                "name": "baby carrot",
+                "preparation": "2/3 cup chopped baby carrots"
+            },
+            {
+                "name": "frozen green pea",
+                "preparation": "1/2 cup frozen green peas"
+            },
+            {
+                "name": "vegetable oil",
+                "preparation": "2 tablespoons vegetable oil"
+            },
+            {
+                "name": "garlic",
+                "preparation": "1 clove garlic, minced, or to taste"
+            },
+            { "name": "egg", "preparation": "2 large eggs" },
+            {
+                "name": "white rice",
+                "preparation": "3 cups leftover cooked and chilled white rice"
+            },
+            {
+                "name": "soy sauce",
+                "preparation": "1 tablespoon soy sauce, or more to taste"
+            },
+            {
+                "name": "sesame oil",
+                "preparation": "2 teaspoons sesame oil, or to taste"
+            }
+        ],
+        "directions": [
+            "Assemble ingredients",
+            "Place carrots in a small saucepan and cover with water. Bring to a low boil and cook for 3 to 5 minutes. Stir in peas, then immediately drain in a colander",
+            "Heat a wok over high heat. Pour in vegetable oil, then stir in carrots, peas, and garlic; cook for about 30 seconds. Add eggs; stir quickly to scramble eggs with vegetables",
+            "Stir in cooked rice. Add soy sauce and toss rice to coat. Drizzle with sesame oil and toss again",
+            "Serve hot and enjoy"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/79543/fried-rice-restaurant-style/",
+        "timeCook": "20 mins"
+    },
+    {
+        "recipeID": 23,
+        "name": "Chocolate Chocolate Chip Nut Muffins",
+        "ingredients": [
+            {
+                "name": "all-purpose flour",
+                "preparation": "2 cups all-purpose flour"
+            },
+            {
+                "name": "unsweetened cocoa powder",
+                "preparation": "1/2 cup unsweetened cocoa powder"
+            },
+            { "name": "white sugar", "preparation": "1 1/2 cups white sugar" },
+            {
+                "name": "baking soda",
+                "preparation": "1/2 teaspoon baking soda"
+            },
+            {
+                "name": "baking powder",
+                "preparation": "2 teaspoons baking powder"
+            },
+            { "name": "salt", "preparation": "1/4 teaspoon salt" },
+            { "name": "soy sauce", "preparation": "1 1/4 cups milk" },
+            { "name": "egg", "preparation": "1 egg" },
+            {
+                "name": "vegetable oil",
+                "preparation": "2 tablespoons vegetable oil"
+            },
+            {
+                "name": "vanilla extract",
+                "preparation": "1 teaspoon vanilla extract"
+            },
+            {
+                "name": "semisweet chocolate chip",
+                "preparation": "1 cup semisweet chocolate chips"
+            },
+            { "name": "walnut", "preparation": "3/4 cup chopped walnuts" },
+            { "name": "almond", "preparation": "1/3 cup whole almonds" },
+            {
+                "name": "white sugar",
+                "preparation": "4 tablespoons white sugar"
+            }
+        ],
+        "directions": [
+            "Preheat oven to 350 degrees F (175 degrees C). Grease muffin cups or line with paper muffin liners",
+            "In medium bowl, Sift together flour, cocoa, sugar, baking powder, baking soda and salt. In large bowl stir in milk, egg, oil and vanilla. Mix dry ingredients to large bowl; beat well. Add chocolate chips and walnuts, stir well",
+            "Fill muffin cups 3/4 full. Poke almonds into tops of unbaked muffins. Sprinkle muffins with sugar",
+            "Bake for 20 to 25 minutes, or until toothpick inserted in center comes out clean"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/22375/chocolate-chocolate-chip-nut-muffins/",
+        "timeCook": "40 mins"
+    },
+    {
+        "recipeID": 24,
+        "name": "Chicken Makhani (Indian Butter Chicken)",
+        "ingredients": [
+            {
+                "name": "peanut oil",
+                "preparation": "2 tablespoons peanut oil, divided"
+            },
+            { "name": "shallot", "preparation": "1 shallot, finely chopped" },
+            {
+                "name": "white onion",
+                "preparation": "1/4 white onion, chopped"
+            },
+            { "name": "butter", "preparation": "2 tablespoons butter" },
+            {
+                "name": "ginger garlic paste",
+                "preparation": "1 tablespoon ginger garlic paste"
+            },
+            { "name": "lemon juice", "preparation": "2 teaspoons lemon juice" },
+            {
+                "name": "garam masala",
+                "preparation": "2 teaspoons garam masala, divided"
+            },
+            {
+                "name": "chili powder",
+                "preparation": "1 teaspoon chili powder"
+            },
+            {
+                "name": "ground cumin",
+                "preparation": "1 teaspoon ground cumin"
+            },
+            { "name": "bay leaf", "preparation": "1 bay leaf" },
+            { "name": "tomato puree", "preparation": "1 cup tomato puree" },
+            { "name": "half-and-half", "preparation": "1 cup half-and-half" },
+            { "name": "plain yogurt", "preparation": "1/4 cup plain yogurt" },
+            { "name": "salt", "preparation": "1 pinch salt to taste" },
+            {
+                "name": "black pepper",
+                "preparation": "1 ground black pepper to taste"
+            },
+            {
+                "name": "chicken thigh",
+                "preparation": "1 pound boneless, skinless chicken thighs, cut into bite-size pieces"
+            },
+            {
+                "name": "cayenne pepper",
+                "preparation": "¼ teaspoon cayenne pepper, or to taste"
+            },
+            { "name": "cornstarch", "preparation": "1 tablespoon cornstarch" },
+            { "name": "water", "preparation": "1/4 cup water" }
+        ],
+        "directions": [
+            "Heat 1 tablespoon oil in a large saucepan over medium-high heat. Sauté shallot and onion until soft and translucent, about 5 minutes",
+            "Stir in butter, ginger-garlic paste, lemon juice, 1 teaspoon garam masala, chili powder, cumin, and bay leaf. Cook and stir for 1 minute. Add tomato sauce, and cook for 2 minutes, continuing to frequently stir",
+            "Stir in half-and-half and yogurt. Reduce heat to low, and simmer for 10 minutes, frequently stirring. Season with salt and pepper. Remove from heat and set aside",
+            "Heat remaining 1 tablespoon oil in a large heavy skillet over medium heat. Cook chicken until lightly browned, about 10 minutes",
+            "Reduce heat, and season with remaining 1 teaspoon garam masala and cayenne. Stir in a few spoonfuls of sauce, and simmer until liquid has reduced, and chicken is no longer pink. Add cooked chicken into sauce and stir together",
+            "Dissolve cornstarch into water, then mix into the sauce. Cook for 5 to 10 minutes, or until thickened",
+            "Serve over rice with naan"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/45957/chicken-makhani-indian-butter-chicken/",
+        "timeCook": "35 mins"
+    },
+    {
+        "recipeID": 25,
+        "name": "Pesto Pasta",
+        "ingredients": [
+            { "name": "pasta", "preparation": "1 (16 ounce) package pasta" },
+            { "name": "olive oil", "preparation": "2 tablespoons olive oil" },
+            { "name": "onion", "preparation": "1/2 cup chopped onion" },
+            { "name": "pesto", "preparation": "2 1/2 tablespoons pesto" },
+            { "name": "salt", "preparation": "salt to taste" },
+            {
+                "name": "black pepper",
+                "preparation": "ground black pepper to taste"
+            },
+            {
+                "name": "Parmesan cheese",
+                "preparation": "2 tablespoons grated Parmesan cheese"
+            }
+        ],
+        "directions": [
+            "Assemble ingredients",
+            "Place carrots in a small saucepan and cover with water. Bring to a low boil and cook for 3 to 5 minutes. Stir in peas, then immediately drain in a colander",
+            "Heat a wok over high heat. Pour in vegetable oil, then stir in carrots, peas, and garlic; cook for about 30 seconds. Add eggs; stir quickly to scramble eggs with vegetables",
+            "Stir in cooked rice. Add soy sauce and toss rice to coat. Drizzle with sesame oil and toss again",
+            "Serve hot and enjoy"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/11887/pesto-pasta/",
+        "timeCook": "15 mins"
+    },
+    {
+        "recipeID": 26,
+        "name": "Crab-Stuffed Mushrooms",
+        "ingredients": [
+            { "name": "butter", "preparation": "2 tablespoons butter" },
+            {
+                "name": "green onion",
+                "preparation": "2 tablespoons minced green onion"
+            },
+            {
+                "name": "cooked crabmeat",
+                "preparation": "1 cup cooked crabmeat, finely chopped"
+            },
+            {
+                "name": "bread crumbs",
+                "preparation": "1/2 cup dry bread crumbs"
+            },
+            {
+                "name": "shredded cheese",
+                "preparation": "1/4 cup shredded Monterey Jack cheese"
+            },
+            { "name": "egg", "preparation": "1 egg, beaten" },
+            { "name": "lemon juice", "preparation": "1 teaspoon lemon juice" },
+            {
+                "name": "dried dill weed",
+                "preparation": "1/2 teaspoon dried dill weed"
+            },
+            { "name": "butter", "preparation": "1/2 cup butter, melted" },
+            {
+                "name": "fresh button mushrooms",
+                "preparation": "1 1/2 pounds fresh button mushrooms, stems removed"
+            },
+            {
+                "name": "shredded cheese",
+                "preparation": "1/2 cup shredded Monterey Jack cheese"
+            },
+            {
+                "name": "dry white wine",
+                "preparation": "1/4 cup dry white wine"
+            }
+        ],
+        "directions": [
+            "Preheat oven to 400 degrees F (200 degrees C)",
+            "Melt 2 tablespoons butter in a skillet; cook and stir green onion until softened, about 2 minutes. Transfer green onion to a bowl. Stir in crabmeat, bread crumbs, 1/4 cup Monterey Jack cheese, egg, lemon juice, and dill weed until well mixed",
+            "Pour 1/2 cup melted butter in a 9x13-inch baking dish; turn mushroom caps in butter to coat. Fill mushroom caps with the crab mixture and sprinkle with remaining 1/2 cup Monterey Jack cheese. Pour white wine into baking dish",
+            "Bake in preheated oven until cheese is melted and lightly brown, 15 to 20 minutes"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/229826/perfect-crab-stuffed-mushrooms/",
+        "timeCook": "40 mins"
+    },
+    {
+        "recipeID": 27,
+        "name": "Copycat KFC Coleslaw",
+        "ingredients": [
+            {
+                "name": "coleslaw mix",
+                "preparation": "1 (14 ounce) package coleslaw mix"
+            },
+            {
+                "name": "yellow onion",
+                "preparation": "1/4 cup finely chopped yellow onion"
+            },
+            { "name": "mayonnaise", "preparation": "1/2 cup mayonnaise" },
+            { "name": "sugar", "preparation": "1/4 cup sugar" },
+            { "name": "milk", "preparation": "2 tablespoons milk" },
+            { "name": "buttermilk", "preparation": "2 tablespoons buttermilk" },
+            {
+                "name": "white wine vinegar",
+                "preparation": "2 tablespoons white wine vinegar"
+            },
+            { "name": "salt", "preparation": "1/2 teaspoon salt" },
+            {
+                "name": "black pepper",
+                "preparation": "1/8 teaspoon black pepper"
+            }
+        ],
+        "directions": [
+            "Stir together coleslaw mix and onion in a large bowl",
+            "Whisk together mayonnaise, sugar, milk, buttermilk, vinegar, salt, and pepper in a second bowl until smooth",
+            "Pour dressing over slaw; stir well and chill at least 2 hours or up to overnight"
+        ],
+        "recipeImage": "https://www.allrecipes.com/recipe/8536918/copycat-kfc-coleslaw/",
+        "timeCook": "2 hrs 15 mins"
+    },
+    {
+        "recipeID": 28,
+        "name": "Apple Spinach Salad",
+        "ingredients": [
+            {
+                "name": "baby spinach leaves",
+                "preparation": "2 cups baby spinach leaves"
+            },
+            { "name": "apple", "preparation": "1 medium apple, sliced" },
+            { "name": "celery", "preparation": "2 tablespoons chopped celery" },
+            {
+                "name": "pecans",
+                "preparation": "2 tablespoons toasted PLANTERS Pecans, chopped"
+            },
+            {
+                "name": "dressing",
+                "preparation": "2 tablespoons KRAFT LIGHT DONE RIGHT! House Italian Reduced Fat Dressing"
+            }
+        ],
+        "directions": ["Toss ingredients with dressing in a large bowl."],
+        "recipeImage": "https://www.allrecipes.com/recipe/129820/apple-spinach-salad/",
+        "timeCook": "10 mins"
+    }
+]
