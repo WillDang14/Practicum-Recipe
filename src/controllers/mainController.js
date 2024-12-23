@@ -10,11 +10,28 @@ mainController.get = (req, res) => {
 };
 
 /* ============================================================= */
-const getAllRecipes = async (req, res) => {
-    // console.log(req.query);
+const getRecipes = async (req, res) => {
+    console.log(req.query);
 
-    // all recipes
-    const recipes = await Recipe.find();
+    const { name, all } = req.query;
+
+    // get all documents or limit or default=10
+    const allDoc = await Recipe.count();
+    let limit = Number(req.query.limit) || 10;
+    if (Number(all)) limit = allDoc;
+
+    const queryObject = {};
+
+    //////////////////////////////////////////////////////////////
+    if (name) {
+        queryObject.name = { $regex: name, $options: "i" };
+    }
+
+    let result = Recipe.find(queryObject);
+
+    result = result.limit(limit);
+
+    const recipes = await result;
 
     res.status(200).json({ nbHits: recipes.length, recipes });
 };
@@ -33,6 +50,15 @@ const getRecipeById = async (req, res) => {
     res.status(200).json(recipe);
 };
 
+/* ============================================================= */
+module.exports = {
+    mainController,
+    getRecipes,
+    getRecipeById,
+};
+
+// ========================================================== //
+/* 
 const getRecipeByName = async (req, res) => {
     const name = req.query.name;
 
@@ -42,10 +68,4 @@ const getRecipeByName = async (req, res) => {
 
     res.status(200).json({ nbHits: data.length, data });
 };
-/* ============================================================= */
-module.exports = {
-    mainController,
-    getAllRecipes,
-    getRecipeById,
-    getRecipeByName,
-};
+*/

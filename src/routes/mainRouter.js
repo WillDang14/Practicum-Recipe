@@ -4,19 +4,16 @@ const router = express.Router();
 
 const {
     mainController,
-    getAllRecipes,
+    getRecipes,
     getRecipeById,
-    getRecipeByName,
 } = require("../controllers/mainController.js");
 
 /* ============================================================= */
 router.get("/", mainController.get);
 
-router.get("/recipes/all", getAllRecipes);
+router.get("/recipes", getRecipes);
 
-router.get("/recipes/:id", getRecipeById);
-
-router.get("/search", getRecipeByName);
+router.get("/:id", getRecipeById);
 
 /* ============================================================= */
 module.exports = router;
