@@ -51,10 +51,29 @@ const getRecipeById = async (req, res) => {
 };
 
 /* ============================================================= */
+const searchByIngredient = async (req, res) => {
+    // console.log(req.query);
+
+    const searchArray = [...Object.values(req.query)];
+
+    console.log("searchArray = ", searchArray);
+
+    // const data = await Recipe.find({
+    //     "ingredients.name": { $all: ["onion", "butter"] },
+    // });
+
+    const data = await Recipe.find({
+        "ingredients.name": { $all: searchArray },
+    });
+
+    res.status(200).json({ nbHits: data.length, data });
+};
+/* ============================================================= */
 module.exports = {
     mainController,
     getRecipes,
     getRecipeById,
+    searchByIngredient,
 };
 
 // ========================================================== //
