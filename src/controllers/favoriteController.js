@@ -2,9 +2,11 @@ const User = require("../models/user");
 
 /* ============================================================= */
 const getAllFavorite = async (req, res) => {
-    const { userID } = req.body;
+    // const { userID } = req.body;
 
-    const user = await User.findOne({ _id: userID });
+    // const user = await User.findOne({ _id: userID });
+
+    const user = await User.findOne({ username: req.user });
 
     return res.status(200).json({
         nbHits: user.favoriteRecipes.length,
