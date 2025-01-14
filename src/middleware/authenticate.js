@@ -1,5 +1,6 @@
 const jwt = require("jsonwebtoken");
 
+///////////////////////////////////////////////////////////////////////////////
 const authenticate = (req, res, next) => {
     const cookies = req.cookies;
     if (!cookies) {
@@ -25,4 +26,5 @@ const authenticate = (req, res, next) => {
     });
 };
 
+///////////////////////////////////////////////////////////////////////////////
 module.exports = authenticate;

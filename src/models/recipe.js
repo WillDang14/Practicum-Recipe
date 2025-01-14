@@ -30,7 +30,7 @@ const recipeSchema = new mongoose.Schema({
             trim: true,
         },
     ],
-    recipeImage: {
+    sourceURL: {
         type: String,
         trim: true,
     },
@@ -38,6 +38,10 @@ const recipeSchema = new mongoose.Schema({
         type: String,
         trim: true,
         default: "0 mins",
+    },
+    recipeImage: {
+        type: String,
+        trim: true,
     },
     createdAt: {
         type: Date,
